@@ -6,5 +6,7 @@
 #  Expires: n/a
 #  Homepage: https://github.com/EKAPHONG/Block-YouTube-Ads
 
+r1---sn-5np5po4v-33js.googlevideo.com
+r2---sn-8xgp1vo-p5qe.googlevideo.com
 r5---sn-5np5po4v-33je.googlevideo.com
 r7---sn-5np5po4v-33jl.googlevideo.com
