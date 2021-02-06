@@ -1,0 +1,10 @@
+#  Title: Block YouTube Ads
+#  Syntax: dbl
+#  Entries: 1 
+#  TimeUpdated: 2021-02-06
+#  Maintainer: EKAPHONG
+#  Expires: n/a
+#  Homepage: n/a
+
+r5---sn-5np5po4v-33je.googlevideo.com
+r7---sn-5np5po4v-33jl.googlevideo.com
